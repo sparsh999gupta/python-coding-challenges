@@ -34,4 +34,4 @@ Maintaining your Fork:
   2. `git checkout master`
   3. `git pull upstream`
 
-Have'nt Got Python on your Machine yet? Get it => [Python](https://www.python.org/)
+Haven't Got Python on your Machine yet? Get it => [Python](https://www.python.org/)
